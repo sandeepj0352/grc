@@ -1,5 +1,3 @@
-Below is a cleaned, categorized, de-duplicated, and corrected version of the original list. All duplicate entries have been removed while preserving every unique resource.
-
 # Career & Job Platforms
 
 * HackerRank – [https://www.hackerrank.com/dashboard](https://www.hackerrank.com/dashboard)
